@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI AND ML
 - 📫 How to reach me rohithreddychappidi56@gmail.com
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
